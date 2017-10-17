@@ -75,7 +75,7 @@ $query_builder = TRUE;
 
 $db['default'] = array(
     'dsn' => '',
-    'hostname' => (ENVIRONMENT == MYSQLCONNSTR_localdb),
+    'hostname' => 'localdb;Data Source=127.0.0.1:55505;User Id=azure;Password=6#vWHD_$',
     'username' => 'roger8b',
     'password' => 'roger159',
     'database' => 'ci_admin',
