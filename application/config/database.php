@@ -75,9 +75,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
     'dsn' => '',
-    'hostname' => 'localdb;Data Source=127.0.0.1:55505;User Id=azure;Password=6#vWHD_$',
-    'username' => 'roger8b',
-    'password' => 'roger159',
+    'hostname' => '127.0.0.1:55505',
+    'username' => 'azure',
+    'password' => '6#vWHD_$',
     'database' => 'ci_admin',
     'dbdriver' => 'mysqli',
     'dbprefix' => '',
